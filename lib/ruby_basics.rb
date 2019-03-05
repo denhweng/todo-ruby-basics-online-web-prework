@@ -26,3 +26,4 @@ end
 def pizza_party(type = "Cheese")
   return "Pepperoni"
 end
+pizza_party()
