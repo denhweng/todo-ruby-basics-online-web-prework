@@ -26,4 +26,4 @@ end
 def pizza_party(type = "cheese")
   return type
 end
-pizza_party("Pepperoni")
+pizza_party("pepperoni")
